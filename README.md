@@ -1,6 +1,6 @@
 # New version
 **An updated version with new features and bugfixes can be found here:** 
-**[finddupe v1.26](https://github.com/thomas694/finddupe)**
+**[finddupe](https://github.com/thomas694/finddupe)**
 
 <br><br><br>
 
