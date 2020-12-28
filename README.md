@@ -24,7 +24,7 @@ MinGW-w64 is required for Unicode wmain as described [here](https://sourceforge.
 
 In version 1.25 I added -ign and -depth arguments to ignore files from the comparizon.
 
-I provide [binary for Win32](finddupe.exe) and [binary for Win64](finddupe64.exe), so you do not have to compile yourself.
+I provide binary for Win32 and binary for Win64, so you do not have to compile yourself.
 
 ## Usage
 ```
@@ -57,7 +57,7 @@ Options:
                                from current directory down
 ```
 
-I provide some real-life usage examples on [my homepage](https://www.jurasz.de/finddupe).
+I provide some real-life usage examples on my homepage.
 
 ## License
 Original license by Matthias Wandel: Finddupe is totally free. Do whatever you like with it. You can integrate it into GPL or BSD style licensed programs if you would like to.
